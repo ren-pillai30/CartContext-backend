@@ -5,4 +5,9 @@ asyncpg
 python-dotenv
 pydantic
 greenlet
-google-generativeai
+google-genai
+python-multipart
+thefuzz
+python-Levenshtein
+httpx
+vaderSentiment
